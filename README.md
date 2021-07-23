@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandan
+- 👋 Hi, I’m ck
 - 👀 I’m interested in AI and Badminton
 - 🌱 I’m currently learning Computer Vision and NLP
 - 💞️ I’m looking to collaborate on CV, ML and NLP project
