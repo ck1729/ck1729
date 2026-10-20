@@ -1,8 +1,7 @@
 - 👋 Hi, I’m ck 
 - 👍 14+ Years of Data Science Experience
 - 👀 I’m interested in AI, Badminton and Dark humor
-- 🌱 I’m currently learning Agentic Systems
-- 💞️ I would love to connect with beautifool soups
+- 🌱 I’m currently learning Agentic System
 - 📫 How to reach me ckgpeace@gmail.com
 
 <!---
